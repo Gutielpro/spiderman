@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,CAAC,CAAC;EACE,OAAO,EAAE,CAAC;EACV,MAAM,EAAE,CAAC;EACT,UAAU,EAAE,CAAC;CAAG;;AAEpB,AAAA,IAAI,CAAC;EACD,gBAAgB,EAAC,OAAO;CAAK;;AAEjC,AAAA,GAAG,CAAC;EACA,OAAO,EAAE,IAAI;EACb,MAAM,EAAE,iBAAiB;CAAG",
+    "sources": [
+        "Mazda2.sass"
+    ],
+    "names": [],
+    "file": "Mazda2.css"
+}
